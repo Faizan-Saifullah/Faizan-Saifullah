@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faizan-Saifullah
-- 👀 I’m interested in Deep Learning, MLOps, Kubernetes, AWS, SQL and Computer Vision.
-- 🌱 I’m currently learning all above.
+- 👀 I’m interested in Artificial Intelligence algorithms, MLOps, Kubernetes, AWS, SQL and Computer Vision.
+- 🌱 I’m currently working as a Senior Artificial Intelligence Developer and learning all above.
 - 💞️ I’m looking to collaborate on all above.
 - 📫 How to reach me: fzn.sf55@gmail.com
 
